@@ -1,0 +1,16 @@
+{
+  "name": "TradeMind Journal",
+  "short_name": "TradeMind",
+  "description": "Trading journal and analytics platform for serious traders.",
+  "start_url": "/dashboard",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#3B82F6",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
